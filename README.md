@@ -35,8 +35,8 @@ working with unstructured and big data.
 ## ▶ Beginner
 
  📌 Descriptive Stats. <br>
-       &emsp; [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
-       Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) or  [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)<br>
+       &emsp;&emsp;&emsp; [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+       &emsp;&emsp;&emsp; Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) or  [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)<br>
         [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO) <br>
        One resource is very enough<br>
 📌 Probability<br>
