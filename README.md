@@ -35,55 +35,55 @@ working with unstructured and big data.
 ## ▶ Beginner
 
  📌 Descriptive Stats. <br>
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
-Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) or  [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)<br>
- [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO) <br>
-One resource is very enough<br>
+       [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+       Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) or  [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)<br>
+        [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO) <br>
+       One resource is very enough<br>
 📌 Probability<br>
-[Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
-[book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)<br>
-[Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
-One resource is very enough<br>
+        [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
+        [book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)<br>
+        [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
+        One resource is very enough<br>
 📌 Python<br>
-[Python for Everybody Specialization](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-ROW&utm_content=06-PythonforEverybody-ROW&campaignid=6493101579&adgroupid=78324461952&device=c&keyword=python%20for%20everybody&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506575876033&hide_mobile_promo&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-OMK-fbA-32Ttea7ajCBqMTvMhwYb7COxBlgOJrGNnsv2NqxPHAAgRoCHRUQAvD_BwE#courses) The first two courses only<br>
-[OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
-[Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
+        [Python for Everybody Specialization](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-ROW&utm_content=06-PythonforEverybody-ROW&campaignid=6493101579&adgroupid=78324461952&device=c&keyword=python%20for%20everybody&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506575876033&hide_mobile_promo&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-OMK-fbA-32Ttea7ajCBqMTvMhwYb7COxBlgOJrGNnsv2NqxPHAAgRoCHRUQAvD_BwE#courses) The first two courses only<br>
+        [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
+        [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
 📌 Pandas<br>
-[Kaggle](https://www.kaggle.com/learn/pandas)<br>
-[Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
-[Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
-One resource is very enough <br>
+        [Kaggle](https://www.kaggle.com/learn/pandas)<br>
+        [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
+        One resource is very enough <br>
 📌 Numpy<br>
-[Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
-[Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
-📌 Scipy<br>
-[Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
-[Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
+        [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
+        [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
+        📌 Scipy<br>
+        [Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
+        [Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
 
 📌 Data Cleaning<br>
-[Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) To know the importance of Data Cleaning<br>
-[Kaggle to Cleaning data](https://www.kaggle.com/learn/data-cleaning)<br>
-[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
-[Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
-[Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python)<br>
+        [Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) To know the importance of Data Cleaning<br>
+        [Kaggle to Cleaning data](https://www.kaggle.com/learn/data-cleaning)<br>
+        [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
+        [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
+        [Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python)<br>
 
 📌 Data Visualization<br>
-[Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
-[Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
-[Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
+        [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
+        [Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+        [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
 
 📌 EDA<br>
-[IBM](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
-11. SQL and DataBase<br>
-[Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
-[Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-[Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)
+        [IBM](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
+        11. SQL and DataBase<br>
+        [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
+        [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
+        [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)
 
 📌 Time Series Analysis<br>
-[Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-[Book](https://www.memsql.com/resources/ebook-oreilly_time_series_2019)<br>
-[fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
-Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)
+        [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+        [Book](https://www.memsql.com/resources/ebook-oreilly_time_series_2019)<br>
+        [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
+        Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)
 
 At the end of the Beginner, phase apply all what you've learned on one or more project.
 --------------------------------------------------------------------------------------------------------
