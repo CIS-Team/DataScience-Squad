@@ -8,7 +8,7 @@
 
 # **▶What is Data Science?**
 
-📌Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+📌<pre> Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata. </pre>
 
 
 # **▶What are we going to learn?**
@@ -49,12 +49,12 @@ working with unstructured and big data.
         [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
         [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
 📌 Pandas<br>
-<pre>
+
         [Kaggle](https://www.kaggle.com/learn/pandas)<br>
-           [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
         One resource is very enough <br>
-        </pre>
+   
 📌 Numpy<br>
         [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
         [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
