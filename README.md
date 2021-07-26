@@ -3,26 +3,26 @@
 
 # ▶ Data Science Squad Roadmap
 
-**📌“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
+**📌 “We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
 
 
 # **▶What is Data Science?**
 
-📌Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+📌 Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
 
 
 # **▶What are we going to learn?**
 ## **📌 Mathematics,statistics and probability**
-Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
+ &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
 
-## **📌Data Analysis**
-you will use programming languages, tools and techniques to answer this question "What happened?"
+## **📌 Data Analysis**
+ &emsp;&emsp;&emsp; you will use programming languages, tools and techniques to answer this question "What happened?"
 
 ## **📌Machine Learning**
-You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
+ &emsp;&emsp;&emsp; You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
 
 ## **📌 Deep Learning**
-working with unstructured and big data.
+v working with unstructured and big data.
 
 ### ▶▶ This track is divided into 3 Levels
 
