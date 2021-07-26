@@ -1,38 +1,38 @@
 ![Data Science](https://user-images.githubusercontent.com/55801427/127027935-5d7d6de8-1a2d-411b-ac8d-6c07856c6f96.png)
 
 
-# Data Science Squad Roadmap
+▶# Data Science Squad Roadmap
 
-**“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
-
-
-# **What is Data Science?**
-
-Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+📌**“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
 
 
-# **What are we going to learn?**
-## **● Mathematics,statistics and probability**
+▶# **What is Data Science?**
+
+📌Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+
+
+▶# **What are we going to learn?**
+📌## **● Mathematics,statistics and probability**
 Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
 
-## **● Data Analysis**
+📌## **● Data Analysis**
 you will use programming languages, tools and techniques to answer this question "What happened?"
 
-## **● Machine Learning**
+📌## **● Machine Learning**
 You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
 
-## **● Deep Learning**
+📌## **● Deep Learning**
 working with unstructured and big data.
 
-### This track is divided into 3 Levels
+▶▶### This track is divided into 3 Levels
 
- ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
- ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
+📌 ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
+📌 ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
  
- ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
+📌 ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
 
-## Beginner
+▶## Beginner
 
  1. Descriptive Stats. <br>
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -87,7 +87,7 @@ Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYw
 
 At the end of the Beginner, phase apply all what you've learned on one or more project.
 --------------------------------------------------------------------------------------------------------
-## Intermediate.
+▶## Intermediate.
 
 1. Math for Machine Learning <br>
 [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
@@ -107,7 +107,7 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
 [Specialization](https://www.coursera.org/specializations/data-visualization)<br>
 
-### Other topics related to all of the above
+▶▶### Other topics related to all of the above
 1. Web Scraping&APIs<br>
 [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
 [intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
@@ -127,7 +127,7 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
 
 ###   After finishing this level apply to 2 or 3 good-sized projects.
 --------------------------------------------------------------------------------------------------------
-## Advanced
+▶## Advanced
 **we will improve and add more!**
 
 1. Deep Learning <br>
