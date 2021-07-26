@@ -16,13 +16,13 @@
  &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to &emsp;&emsp;&emsp; work with them.
 
 ## **📌 Data Analysis**
- &emsp;&emsp;&emsp; you will use programming languages, tools and techniques to answer this question "What happened?"
+ &emsp;&emsp;&emsp; You will use programming languages, tools and techniques to answer this question "What happened?"
 
 ## **📌Machine Learning**
  &emsp;&emsp;&emsp; You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
 
 ## **📌 Deep Learning**
- &emsp;&emsp;&emsp; working with unstructured and big data.
+ &emsp;&emsp;&emsp; Working with unstructured and big data.
 
 ## ▶▶ This track is divided into 3 Levels
 
