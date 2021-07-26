@@ -24,7 +24,7 @@
 ## **📌 Deep Learning**
  &emsp;&emsp;&emsp; working with unstructured and big data.
 
-### ▶▶ This track is divided into 3 Levels
+## ▶▶ This track is divided into 3 Levels
 
  ### 📌 Beginner: you get a basic understanding of data analysis, tools and techniques.
  ### 📌 Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
