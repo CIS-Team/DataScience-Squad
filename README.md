@@ -82,7 +82,7 @@
 
 📌 Time Series Analysis<br>
          &emsp;&emsp;&emsp;  [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-         &emsp;&emsp;&emsp;  [Book](https://www.memsql.com/resources/ebook-oreilly_time_series_2019)<br>
+         &emsp;&emsp;&emsp;  [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
          &emsp;&emsp;&emsp;  [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;  Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)
 
