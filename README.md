@@ -31,7 +31,6 @@ working with unstructured and big data.
  
  ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
-## Let's start...
 
 ## Beginner
 
