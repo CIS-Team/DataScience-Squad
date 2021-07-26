@@ -61,11 +61,13 @@ working with unstructured and big data.
         [Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
 
 📌 Data Cleaning<br>
+<div>
         [Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) To know the importance of Data Cleaning<br>
         [Kaggle to Cleaning data](https://www.kaggle.com/learn/data-cleaning)<br>
         [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
         [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
         [Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python)<br>
+ </div>
 
 📌 Data Visualization<br>
         [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
