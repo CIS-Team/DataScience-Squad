@@ -49,25 +49,26 @@ working with unstructured and big data.
         [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
         [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
 📌 Pandas<br>
+<pre>
         [Kaggle](https://www.kaggle.com/learn/pandas)<br>
-        [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+           [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
         One resource is very enough <br>
+        </pre>
 📌 Numpy<br>
         [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
         [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         📌 Scipy<br>
         [Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
         [Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
-
+        
 📌 Data Cleaning<br>
-<div>
         [Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) To know the importance of Data Cleaning<br>
         [Kaggle to Cleaning data](https://www.kaggle.com/learn/data-cleaning)<br>
         [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
         [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
         [Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python)<br>
- </div>
+ 
 
 📌 Data Visualization<br>
         [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
