@@ -12,24 +12,24 @@
 
 
 # **▶What are we going to learn?**
-## **📌● Mathematics,statistics and probability**
+## **📌 Mathematics,statistics and probability**
 Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
 
-📌## **● Data Analysis**
+## **📌Data Analysis**
 you will use programming languages, tools and techniques to answer this question "What happened?"
 
-📌## **● Machine Learning**
+## **📌Machine Learning**
 You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
 
-📌## **● Deep Learning**
+## **📌 Deep Learning**
 working with unstructured and big data.
 
 ▶▶### This track is divided into 3 Levels
 
-📌 ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
-📌 ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
+ ### 📌 Beginner: you get a basic understanding of data analysis, tools and techniques.
+ ### 📌 Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
  
-📌 ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
+ ### 📌 Advanced: where we learn more advanced Math, DL and Deployment.
 
 
 ▶## Beginner
