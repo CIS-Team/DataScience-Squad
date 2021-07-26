@@ -1,4 +1,5 @@
-![Data Science]!(https://user-images.githubusercontent.com/55801427/127026734-4df20798-8a29-4799-bf14-b15210b070ad.png)
+![Data Science](https://user-images.githubusercontent.com/55801427/127026997-de22ea6e-e038-428f-b5fd-ffab59062111.png)
+
 
 
 
