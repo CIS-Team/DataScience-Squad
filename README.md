@@ -22,14 +22,13 @@
  &emsp;&emsp;&emsp; You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
 
 ## **📌 Deep Learning**
-v working with unstructured and big data.
+ &emsp;&emsp;&emsp; working with unstructured and big data.
 
 ### ▶▶ This track is divided into 3 Levels
 
  ### 📌 Beginner: you get a basic understanding of data analysis, tools and techniques.
  ### 📌 Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
- 
- ###  Advanced: where we learn more advanced Math, DL and Deployment.
+ ### 📌 Advanced: where we learn more advanced Math, DL and Deployment.
 
 
 ## ▶ Beginner
