@@ -1,4 +1,5 @@
-![Data Science](https://user-images.githubusercontent.com/55801427/127025538-9f7b90c9-04e3-4000-95f9-be491b64d97e.png)
+![Data Science]!(https://user-images.githubusercontent.com/55801427/127026734-4df20798-8a29-4799-bf14-b15210b070ad.png)
+
 
 
 
@@ -30,6 +31,7 @@ working with unstructured and big data.
 
  ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
  ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
+ 
  ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
 ## Let's start...
@@ -123,7 +125,7 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
 [This stats. book](https://b-ok.africa/book/2737548/7659e9)<br>
 [Think Bayes](https://b-ok.africa/book/2737587/ab97d5)<br>
 4. Advanced SQL<br>
-[course](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+[course](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
 [joins](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
 
 
