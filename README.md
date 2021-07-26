@@ -6,7 +6,7 @@
 **📌“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
 
 
-▶# **What is Data Science?**
+# **▶What is Data Science?**
 
 📌Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
 
