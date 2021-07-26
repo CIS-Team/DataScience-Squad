@@ -1,8 +1,4 @@
-![Data Science](https://user-images.githubusercontent.com/55801427/127026997-de22ea6e-e038-428f-b5fd-ffab59062111.png)
-
-
-
-
+![Data Science](https://user-images.githubusercontent.com/55801427/127027935-5d7d6de8-1a2d-411b-ac8d-6c07856c6f96.png)
 
 
 # Data Science Squad Roadmap
