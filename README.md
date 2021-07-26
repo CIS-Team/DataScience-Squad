@@ -8,12 +8,12 @@
 
 # **▶What is Data Science?**
 
-📌 Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+📌 Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, &emsp;&emsp; machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured &emsp;&emsp; or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine &emsp;&emsp; learning and AI to process bigdata.
 
 
 # **▶What are we going to learn?**
 ## **📌 Mathematics,statistics and probability**
- &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to &emsp;&emsp;&emsp work with them.
+ &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to &emsp;&emsp;&emsp; work with them.
 
 ## **📌 Data Analysis**
  &emsp;&emsp;&emsp; you will use programming languages, tools and techniques to answer this question "What happened?"
