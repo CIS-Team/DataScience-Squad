@@ -154,7 +154,7 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
 
 ***
 
-## ...MORE yet to come in this section..
+## ...More yet to come in this section..
 
 ***
 
