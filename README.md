@@ -13,7 +13,7 @@
 
 # **▶What are we going to learn?**
 ## **📌 Mathematics,statistics and probability**
- Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to &emsp;&emsp;&emsp; work with them.
+ &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
 
 ## **📌 Data Analysis**
  &emsp;&emsp;&emsp; You will use programming languages, tools and techniques to answer this question "What happened?"
