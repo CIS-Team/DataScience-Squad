@@ -26,7 +26,7 @@ You will learn machine Learning and its algorithms and apply them to the data to
 ## **● Deep Learning**
 working with unstructured and big data.
 
-### This track is divided into 3 phases..
+### This track is divided into 3 Levels
 
  ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
  ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
