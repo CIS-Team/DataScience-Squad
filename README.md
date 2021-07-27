@@ -100,7 +100,7 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
       &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/c/HeshamAsem/playlists)<br>
 
 📌 Feature Engineering<br>
-      &emsp;&emsp;&emsp; [Kaggle](https://www.kaggle.com/learn/feature-engineering) pr [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
+      &emsp;&emsp;&emsp; [Kaggle](https://www.kaggle.com/learn/feature-engineering) or [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
       &emsp;&emsp;&emsp; [Book](https://b-ok.cc/book/3583182/056a36)<br>
       &emsp;&emsp;&emsp; [Playlist-Youtube](https://www.youtube.com/watch?v=pYVScuY-GPk&list=PLeo1K3hjS3ut5olrDIeVXk9N3Q7mKhDxO)<br>
 
