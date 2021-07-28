@@ -154,3 +154,5 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
 
 ***
 
+
+# [**▶What is Data Science?**](https://user-images.githubusercontent.com/55801427/127300405-7c5525af-ee28-442e-94e2-2bf4494f9f7b.png)
