@@ -154,6 +154,9 @@ Do not forget to apply what you have learned periodically.
 📌 Machine Learning Engineering for Production (MLOps)  <br>
       &emsp;&emsp;&emsp; [Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?)<br>
 
+📌 Practical Data Science  <br>
+      &emsp;&emsp;&emsp; [Specialization](https://www.coursera.org/specializations/practical-data-science)<br>
+
 
 > more to be added here..
 
