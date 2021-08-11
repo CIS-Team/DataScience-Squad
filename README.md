@@ -3,26 +3,35 @@
 
 # ▶ Data Science Squad Roadmap
 
-**� “We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
+**📌 “We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
 
 
 # **▶What is Data Science?**
 
-📌 Data science has emerged in the last few years as a new profession that combines several disciplines, such as statistics, data analysis, machine learning, and others. The goal of data science is to extract knowledge or insights from data in various forms, either structured or unstructured, which is like data mining. After you collect a large enough volume of data, patterns emerge. Then, data scientists use learning algorithms on these patterns. Data science uses machine learning and AI to process bigdata.
+📌 Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value.
+
+# **▶Why Data Science is Important?**
+Data is valuable, and so is the science in decoding it. Zillions of bytes of data are being generated, and now its value has surpassed oil as well. The role of a data scientist is and will be of paramount importance for organizations across many verticals.
+
+**Data without science is nothing.**
+Data needs to be read and analyzed. This calls out for the requirement of having a quality of data and understanding how to read it and make data-driven discoveries.
+
+**Data will help to create better customer experiences.**
+For goods and products, data science will be leveraging the power of machine learning to enable companies to create and produce products that customers will adore. For example, for an eCommerce company, a great recommendation system can help them discover their customer personas by looking at their purchase history.
+
+**Data will be used across verticals.**
+Data science is not limited to only consumer goods or tech or healthcare. There will be a high demand to optimize business processes using data science from banking and transport to manufacturing. So anyone who wants to be a data scientist will have a whole new world of opportunities open out there. The future is data.
 
 
 # **▶What are we going to learn?**
-## **📌 Mathematics,statistics and probability**
- &emsp;&emsp;&emsp; Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
+## **📌 Basic sciences you will need**
+ &emsp;&emsp;&emsp; Mathematics and statistics are the heart of data science. Because this is the basis by which you will understand the data and understand how to build machine learning Algorithms and how to work with them.
 
 ## **📌 Data Analysis**
- &emsp;&emsp;&emsp; You will use programming languages, tools and techniques to answer this question "What happened?"
+ &emsp;&emsp;&emsp; In this part, you will start by learning the tools and techniques and applying statistics and mathematics that you have learned in order to understand the data, extract useful information from it, and communicate an impact to the owner who can understand and make important decisions
 
 ## **📌Machine Learning**
- &emsp;&emsp;&emsp; You will learn machine Learning and its algorithms and apply them to the data to answer the question, "What will happen in the future?"
-
-## **📌 Deep Learning**
- &emsp;&emsp;&emsp; Working with unstructured and big data.
+ &emsp;&emsp;&emsp; Learn foundational machine learning algorithms, starting with data cleaning and supervised models. Then, move on to exploring deep and unsupervised learning. Also Learn advanced machine learning techniques and algorithms and how to package and deploy your models to a production environment.
 
 ## ▶▶ This track is divided into 3 Levels
 
@@ -40,11 +49,10 @@
        &emsp;&emsp;&emsp; One resource is very enough<br>
 📌 Probability<br>
         &emsp;&emsp;&emsp; [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
-        &emsp;&emsp;&emsp; [book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)<br>
         &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
         &emsp;&emsp;&emsp; One resource is very enough<br>
 📌 Python<br>
-        &emsp;&emsp;&emsp; [Python for Everybody Specialization](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-ROW&utm_content=06-PythonforEverybody-ROW&campaignid=6493101579&adgroupid=78324461952&device=c&keyword=python%20for%20everybody&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506575876033&hide_mobile_promo&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-OMK-fbA-32Ttea7ajCBqMTvMhwYb7COxBlgOJrGNnsv2NqxPHAAgRoCHRUQAvD_BwE#courses) The first two courses only<br>
+        &emsp;&emsp;&emsp; [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
         &emsp;&emsp;&emsp; [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
         &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
 📌 Pandas<br>
@@ -86,7 +94,7 @@
          &emsp;&emsp;&emsp;  [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;  Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)
 
-At the end of the Beginner, phase apply all what you've learned on one or more project.
+Do not forget to apply what you have learned periodically.
 --------------------------------------------------------------------------------------------------------
 ## ▶Intermediate.
 
@@ -141,9 +149,8 @@ At the end of the Beginner, phase apply all what you've learned on one or more p
        &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/watch?v=ohyn_MzS_hE&list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP)<br>
 
 
-📌 NLP <br>
-      &emsp;&emsp;&emsp; [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
-      &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/c/HeshamAsem/playlists)
+📌 Machine Learning Engineering for Production (MLOps)  <br>
+      &emsp;&emsp;&emsp; [Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?)<br>
 
 
 > more to be added here..
