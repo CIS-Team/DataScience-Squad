@@ -53,8 +53,10 @@ Data science is not limited to only consumer goods or tech or healthcare. There 
         &emsp;&emsp;&emsp; One resource is very enough<br>
 📌 Python<br>
         &emsp;&emsp;&emsp; [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-        &emsp;&emsp;&emsp; [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
-        &emsp;&emsp;&emsp; [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
+        &emsp;&emsp;&emsp; 
+        [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
+        &emsp;&emsp;&emsp;
+        [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
 📌 Pandas<br>
         &emsp;&emsp;&emsp; [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp; [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
