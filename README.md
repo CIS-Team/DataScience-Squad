@@ -3,7 +3,7 @@
 
 # ▶ Data Science Squad Roadmap
 
-**📌 “We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
+**� “We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in Data Science. This Document for who are interested in Data Science”**
 
 
 # **▶What is Data Science?**
